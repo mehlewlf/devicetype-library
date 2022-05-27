@@ -3,8 +3,10 @@ manufacturer: Cisco
 model: DS-C9710
 slug: ds-c9710
 part_number: DS-C9710
-comments:'[Cisco MDS 9700 Series Hardware Installation Guide](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/mds9000/hw/9700/mds_9700_hig/overview.html)\r\
-  \n\r\n[Cisco MDS 9710 Multilayer Director Data Sheet](https://www.cisco.com/c/en/us/products/collateral/storage-networking/mds-9700-series-multilayer-directors/data_sheet_c78-727769.html)'
+comments: '[Cisco MDS 9700 Series Hardware Installation Guide](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/mds9000/hw/9700/mds_9700_hig/overview.html)
+
+
+[Cisco MDS 9710 Multilayer Director Data Sheet](https://www.cisco.com/c/en/us/products/collateral/storage-networking/mds-9700-series-multilayer-directors/data_sheet_c78-727769.html)'
 u_height: 14
 is_full_depth: true
 subdevice_role: parent

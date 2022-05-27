@@ -1,0 +1,20 @@
+---
+manufacturer: Cisco
+model: DS-C9710
+slug: ds-c9710
+part_number: DS-C9710
+u_height: 14
+is_full_depth: true
+subdevice_role: parent
+console-ports:
+  - name: con0
+    type: rj-45
+  - name: con1
+    type: rj-45
+power-ports:
+  - name: PSU0
+    type: iec-60320-c20
+    maximum_draw: 12000
+  - name: PSU1
+    type: iec-60320-c20
+    maximum_draw: 12000

@@ -1,6 +1,6 @@
 ---
 manufacturer: Cisco
-model: Cisco MDS 9710 Multilayer Director
+model: DS-C9710
 slug: ds-c9710
 part_number: DS-C9710
 u_height: 14
@@ -38,9 +38,27 @@ module-bays:
     position: '10'
     description: Line Card
 power-ports:
-  - name: PSU0
+  - name: PS-1
     type: iec-60320-c20
     maximum_draw: 3000
-  - name: PSU1
+  - name: PS-2
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PS-3
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PS-4
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PS-5
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PS-6
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PS-7
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PS-8
     type: iec-60320-c20
     maximum_draw: 3000

@@ -6,10 +6,6 @@ comments: '[Cisco MDS 9700 Series Supervisor-4 Module Data Sheet](https://www.ci
 console-ports:
   - name: console
     type: rj-45
-  - name: usb0
-    type: usb-3.0-a
-  - name: usb1
-    type: usb-3.0-a
 interfaces:
   - name: mgmt0
     type: 1000base-t

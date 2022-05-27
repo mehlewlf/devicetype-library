@@ -3,6 +3,7 @@ manufacturer: Cisco
 model: DS-C9710
 slug: ds-c9710
 part_number: DS-C9710
+comments: '[Cisco MDS 9710 Multilayer Director Data Sheet](https://www.cisco.com/c/en/us/products/collateral/storage-networking/mds-9700-series-multilayer-directors/data_sheet_c78-727769.html)'
 u_height: 14
 is_full_depth: true
 subdevice_role: parent
